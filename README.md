@@ -17,8 +17,12 @@ It enables authenticated users to add and explore relationships between learning
 -  **Expandable Design** — Easily scalable into a full learning recommendation backend  
 
 ---
+ <img width="1917" height="970" alt="Screenshot 2025-11-04 192704" src="https://github.com/user-attachments/assets/da0df5c2-e955-45ab-836a-4c576b323a42" />
 
+
+ <img width="1919" height="969" alt="Screenshot 2025-11-04 192912" src="https://github.com/user-attachments/assets/30f459eb-7cdb-4ec6-b7c7-397206b67949" />
 ##  Tech Stack
+
 
 | Layer | Technology |
 |-------|-------------|
@@ -36,7 +40,8 @@ It enables authenticated users to add and explore relationships between learning
 ### Prerequisites
 - Node.js **(v16 or higher)**  
 - Neo4j Database **(AuraDB or Local)**  
-- Redis Server  
+- Redis Server 
+
 
 ---
 
@@ -53,5 +58,9 @@ npm install
 - User progress tracking system
 -  Analytics dashboard for learning insights
 
+
+## Support
+
+If you like this project, consider giving it a Star on GitHub to show your support!
 
 
